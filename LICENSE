@@ -1,3 +1,10 @@
+Original source from:
+ Eli Bendersky's blog: [Measuring context switching and memory overheads for Linux threads](https://eli.thegreenplace.net/2018/measuring-context-switching-and-memory-overheads-for-linux-threads/)
+
+[Test code](https://github.com/eliben/code-for-blog/tree/master/2018/threadoverhead)
+
+===
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
